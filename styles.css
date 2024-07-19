@@ -1,0 +1,74 @@
+/* Estilo para el encabezado */
+.texto-estilizado1 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #06b7c4; /* Color del texto en hexadecimal */
+}
+.texto-estilizado2 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #06b7c4; /* Color del texto en hexadecimal */
+}
+.texto-estilizado4 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #06b7c4; /* Color del texto en hexadecimal */
+}
+
+/* Estilo para el apartado del texto */
+.texto-estilizado3 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #333; /* Color del texto en hexadecimal */
+}
+.texto-estilizado5 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #333; /* Color del texto en hexadecimal */
+}
+.texto-estilizado6 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #333; /* Color del texto en hexadecimal */
+}
+.texto-estilizado7 {
+  font-family: Arial, sans-serif; /* Ejemplo de familia de fuentes */
+  font-size: 20px; /* tamaño de la letra */
+  font-style: italic; /* Estilo de la letra (cursiva) */
+  font-weight: bold; /* Grosor de la letra (negrita) */
+  color: #333; /* Color del texto en hexadecimal */
+}
+
+/* Estilo para el apartado de las imagenes */
+.imagen-contenedor1 img {
+  width: 300px; /* Ancho fijo para todas las imágenes */
+  height: auto; /* Mantener la proporción original */
+  display: block; /* Asegurar que las imágenes se comporten como bloques */
+  margin: 0 auto; /* Centrar las imágenes horizontalmente */
+}
+
+.imagen-contenedor2 img {
+  width: 300px; /* Ancho fijo para todas las imágenes */
+  height: auto; /* Mantener la proporción original */
+  display: block; /* Asegurar que las imágenes se comporten como bloques */
+  margin: 0 auto; /* Centrar las imágenes horizontalmente */
+}
+
+.imagen-contenedor3 img {
+  width: 300px; /* Ancho fijo para todas las imágenes */
+  height: auto; /* Mantener la proporción original */
+  display: block; /* Asegurar que las imágenes se comporten como bloques */
+  margin: 0 auto; /* Centrar las imágenes horizontalmente */
+}
